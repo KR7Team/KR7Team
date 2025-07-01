@@ -1,3 +1,21 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/amazing.png" group-title="SPORT_PLUS", AMAZING
+<==========FIFA CWC LIVE ON COMING======>
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ftp.qtv.my.id/m6KJThzv2KSwx2wefPuvJFEN73xA4c9g/3zqX2e6M7sJ7dTkMNH6DJ4PRzdMSIFSL.png" group-title="⚽FIFA CWC DAZN HD⚽", 🎥Real Madrid vs. Juventus [HD] (02/07 02:00 WIB)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 http://ftp.qtv.my.id/manifest.mpd?id=41s938ow82a2longxdyfw705u&type=dash&token=7cd659d8b63b417885b99da153accea5
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ftp.qtv.my.id/T2XyMKpicOpWszB2vVyP13Qt1qBx7Lo4/AQ7QUmv6gXuqwbY@4LqQuHPcmnOtUyuz.png" group-title="⚽FIFA CWC DAZN HD⚽",💦(UP COMING) Borussia Dortmund vs. CF Monterrey [HD] (02/07 07:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://ftp.qtv.my.id/manifest.mpd?id=66c5urxppwbozjxo00g0afy51&type=dash&token=7cd659d8b63b417885b99da153accea5
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ftp.qtv.my.id/FUUvOmUatpctmngvGjEGB9YFlCwD0W4G/RYbuJWg3ecmR9AtDBUqAMxgkno2xGQVM/tOhUog5F8EwgwZbZHzM5L9ieYy4gAcyN.png" group-title="⚽FIFA CWC DAZN HD⚽",💦(UP COMING) Fluminense vs. Al Hilal [HD] (05/07 01:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://ftp.qtv.my.id/manifest.mpd?id=7nfnlpanbps8z91w62bgfk2aj&type=dash&token=7cd659d8b63b417885b99da153accea5
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ftp.qtv.my.id/~1fwQ9SCqd23cTMsnVilClrbkVWsXaPG/OuV3ffvqNf38wCznLMmmDV~czhAcNAL3.png" group-title="⚽FIFA CWC DAZN HD⚽",💦(UP COMING)Palmeiras vs. Chelsea FC [HD] (05/07 07:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://ftp.qtv.my.id/manifest.mpd?id=e4p08b61ovnz6uv18566klpdy&type=dash&token=7cd659d8b63b417885b99da153accea5
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ftp.qtv.my.id/T8MstUW9Ph1FJ2mzMWRGAvAw~M6qNVoD/ds6PGJasCixh5FLlJtqIcW0z6HdNMKnI.png" group-title="⚽FIFA CWC DAZN HD⚽",💦(UP COMING)Paris Saint-Germain vs. Bayern München [HD] (05/07 22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://ftp.qtv.my.id/manifest.mpd?id=7o7h5z9t43tazr7tk1kf98567&type=dash&token=7cd659d8b63b417885b99da153accea5
